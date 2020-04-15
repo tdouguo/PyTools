@@ -23,19 +23,10 @@ pip install -r requirements.txt
 pip freeze > requirements.txt
 ```
 
-# complete list
+# list
 
-
-***tinypng***
-
-```bash
-pip install -r png2svg/requirements.txt
-python tinypng/tinypng.py './sourceFolder' './outputFolder'
-```
-
-
-# Future plans
-
+- [x] ***pdf2world*** pdf 转换 world
+- [x] ***tinypng*** 基于 www.tinypng.png 压缩图片 png jpg jpeg
 - [ ] xlsx to json
 - [ ] xlsx to csv
 - [ ] xlsx to xml
