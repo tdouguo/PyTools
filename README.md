@@ -1,7 +1,24 @@
 # [PyTools](https://github.com/tdouguo/PyTools)
 
+Python 模块化脚本, 欢迎您 Pull requests 常用的小工具为开源做一个小小的贡献。
 
-## python 虚拟环境
+***贡献规范: ***
+
+1. 测试通过可运行
+2. 依赖模块文件 requirements.txt
+3. 使用说明
+ 
+
+# list
+
+- [x] ***pdf2world [文档](#pdf2world)*** 
+- [x] ***tinypng [文档](#tinypng)*** 基于 www.tinypng.png 压缩图片 png jpg jpeg 
+- [ ] xlsx to json
+- [ ] xlsx to csv
+- [ ] xlsx to xml
+
+
+# python 虚拟环境
 
 1. 创建虚拟环境
 ```bash
@@ -22,15 +39,6 @@ pip install -r requirements.txt
 ```bash
 pip freeze > requirements.txt
 ```
-
-
-# list
-
-- [x] ***pdf2world [文档](#pdf2world)*** 
-- [x] ***tinypng [文档](#tinypng)*** 基于 www.tinypng.png 压缩图片 png jpg jpeg 
-- [ ] xlsx to json
-- [ ] xlsx to csv
-- [ ] xlsx to xml
 
 
 # Document
@@ -63,3 +71,4 @@ pip install -r requirements.txt
 ```bash
 python pdf2world.py ./sourceFolder ./outputFolder
 ```
+
