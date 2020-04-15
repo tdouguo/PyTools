@@ -1,6 +1,6 @@
 # [PyTools](https://github.com/tdouguo/PyTools)
 
-Python 模块化脚本, 欢迎您 Pull requests 常用的小工具为开源做一个小小的贡献。
+Python 常用小工具, 欢迎您 Pull requests 。
 
 ***贡献规范: ***
 
