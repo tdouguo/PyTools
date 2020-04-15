@@ -25,8 +25,8 @@ pip freeze > requirements.txt
 
 # list
 
-- [x] ***pdf2world*** [文档](/#pdf2world)
-- [x] ***tinypng*** 基于 www.tinypng.png 压缩图片 png jpg jpeg [文档](/#tinypng)
+- [x] ***pdf2world [文档](#pdf2world)*** 
+- [x] ***tinypng [文档](#tinypng)*** 基于 www.tinypng.png 压缩图片 png jpg jpeg 
 - [ ] xlsx to json
 - [ ] xlsx to csv
 - [ ] xlsx to xml
